@@ -15,11 +15,11 @@ Think of this as a template and take insp.
 There are no laws that suspends you from forking it and using it for your own purposes. 
 
 # Documentations
----
+
 Docs not written yet 
 
 # Screenshots
----
+
 project sill not done / currently being worked on 
 
 
