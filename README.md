@@ -2,7 +2,7 @@
 A flawless cat photo app from https://www.freecodecamp.org/learn/2022/responsive-web-design/ 
 
 Table of Content 
-  * #BEWARE! NOTE! 
+  * [Beware!](https://github.com/Yu14Y/Cat-Photo-App/blob/main/README.md#beware-note) - Notice from Yu14 
 
 # BEWARE! NOTE! 
 ----
