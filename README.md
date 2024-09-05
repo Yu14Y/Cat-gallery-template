@@ -1,5 +1,5 @@
-# Cat-Photo-App
-A flawless cat photo app from https://www.freecodecamp.org/learn/2022/responsive-web-design/ 
+# Cat-Photo-Gallary
+A flawless cat photo Gallary from https://www.freecodecamp.org/learn/2022/responsive-web-design/ 
 
 Table of Content 
   * [Beware!](https://github.com/Yu14Y/Cat-Photo-App/blob/main/README.md#beware-note) - Notice from Yu14
