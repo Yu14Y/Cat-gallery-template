@@ -2,10 +2,10 @@
 A flawless cat photo Gallary from [freecodecamp.org ](https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-html-by-building-a-cat-photo-app)
 Table of Content 
 <ul>
-  * [Beware!](https://github.com/Yu14Y/Cat-Photo-App/blob/main/README.md#beware-note) - Notice from Yu14
-  * [Docs](https://github.com/Yu14Y/Cat-Photo-App/blob/main/README.md#documentations) - documentation
-  * [Screenshots](https://github.com/Yu14Y/Cat-Photo-App/blob/main/README.md#screenshots) - screenshots 
-  * [About Yu14](https://github.com/Yu14Y/Cat-Photo-App/blob/main/README.md#about-yu14-ywen) - Info about Owner of Repo
+  <li> [Beware!](https://github.com/Yu14Y/Cat-Photo-App/blob/main/README.md#beware-note) - Notice from Yu14 </li>
+  <li> [Docs](https://github.com/Yu14Y/Cat-Photo-App/blob/main/README.md#documentations) - documentation </li>
+  <li> [Screenshots](https://github.com/Yu14Y/Cat-Photo-App/blob/main/README.md#screenshots) - screenshots </li>
+  <li> [About Yu14](https://github.com/Yu14Y/Cat-Photo-App/blob/main/README.md#about-yu14-ywen) - Info about Owner of Repo</li>
 </ul>
 # BEWARE! NOTE! 
 ----
