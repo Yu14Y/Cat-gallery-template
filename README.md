@@ -1,5 +1,7 @@
 # Cat Photo Gallary 
-<br> A flawless cat photo Gallary from [freecodecamp.org ](https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-html-by-building-a-cat-photo-app)
+
+A flawless cat photo Gallary from [freecodecamp.org ](https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-html-by-building-a-cat-photo-app)
+
 ---
 ### Table of Content 
 <ul>
