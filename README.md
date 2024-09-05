@@ -2,7 +2,10 @@
 A flawless cat photo app from https://www.freecodecamp.org/learn/2022/responsive-web-design/ 
 
 Table of Content 
-  * [Beware!](https://github.com/Yu14Y/Cat-Photo-App/blob/main/README.md#beware-note) - Notice from Yu14 
+  * [Beware!](https://github.com/Yu14Y/Cat-Photo-App/blob/main/README.md#beware-note) - Notice from Yu14
+  * [Docs](https://github.com/Yu14Y/Cat-Photo-App/blob/main/README.md#beware-note) - documentation
+  * Screenshots
+  * About Yu14
 
 # BEWARE! NOTE! 
 ----
@@ -11,7 +14,7 @@ it is best if you learn and read resources so u will understand everything.
 Think of this as a template and take insp.
 There are no laws that suspends you from forking it and using it for your own purposes. 
 
-#Documentations
+# Documentations
 ---
 Docs not written yet 
 
