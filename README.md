@@ -3,9 +3,9 @@ A flawless cat photo app from https://www.freecodecamp.org/learn/2022/responsive
 
 Table of Content 
   * [Beware!](https://github.com/Yu14Y/Cat-Photo-App/blob/main/README.md#beware-note) - Notice from Yu14
-  * [Docs](https://github.com/Yu14Y/Cat-Photo-App/blob/main/README.md#beware-note) - documentation
-  * [Screenshots](https://github.com/Yu14Y/Cat-Photo-App/blob/main/README.md#beware-note) - screenshots 
-  * About Yu14
+  * [Docs](https://github.com/Yu14Y/Cat-Photo-App/blob/main/README.md#documentations) - documentation
+  * [Screenshots](https://github.com/Yu14Y/Cat-Photo-App/blob/main/README.md#screenshots) - screenshots 
+  * [About Yu14](https://github.com/Yu14Y/Cat-Photo-App/blob/main/README.md#about-yu14-ywen) - Info about Owner of Repo
 
 # BEWARE! NOTE! 
 ----
