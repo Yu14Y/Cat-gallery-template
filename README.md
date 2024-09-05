@@ -25,7 +25,6 @@ project sill not done / currently being worked on
 
 
 # About Yu14 Ywen 
----
-An up and coming programming learning from various sources. 
-An up and self taught programmer. 
 
+An up and coming programming learning from various sources. 
+An up and coming self taught programmer. 
