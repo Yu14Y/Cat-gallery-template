@@ -4,7 +4,7 @@ A flawless cat photo app from https://www.freecodecamp.org/learn/2022/responsive
 Table of Content 
   * [Beware!](https://github.com/Yu14Y/Cat-Photo-App/blob/main/README.md#beware-note) - Notice from Yu14
   * [Docs](https://github.com/Yu14Y/Cat-Photo-App/blob/main/README.md#beware-note) - documentation
-  * Screenshots
+  * [Screenshots](https://github.com/Yu14Y/Cat-Photo-App/blob/main/README.md#beware-note) - screenshots 
   * About Yu14
 
 # BEWARE! NOTE! 
@@ -18,7 +18,7 @@ There are no laws that suspends you from forking it and using it for your own pu
 ---
 Docs not written yet 
 
-#Screenshots
+# Screenshots
 ---
 project sill not done / currently being worked on 
 
