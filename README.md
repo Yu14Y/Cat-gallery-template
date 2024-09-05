@@ -1,6 +1,6 @@
 # Cat-Photo-Gallary
 A flawless cat photo Gallary from [freecodecamp.org ](https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-html-by-building-a-cat-photo-app)
-
+---
 ### Table of Content 
 <ul>
   <li> <a href="https://github.com/Yu14Y/Cat-Photo-App/blob/main/README.md#beware-note">Beware!</a> - Notice from Yu14 </li>
@@ -8,6 +8,7 @@ A flawless cat photo Gallary from [freecodecamp.org ](https://www.freecodecamp.o
   <li> <a href="https://github.com/Yu14Y/Cat-Photo-App/blob/main/README.md#screenshots">Screenshots</a> - screenshots </li>
   <li> <a href="https://github.com/Yu14Y/Cat-Photo-App/blob/main/README.md#about-yu14-ywen">About Yu14</a> - Info about Owner of Repo</li>
 </ul>
+
 # BEWARE! NOTE! 
 ----
 Please do not use this material to cheat on your school project or any sort related to education.
