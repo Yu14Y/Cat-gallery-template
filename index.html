@@ -8,7 +8,6 @@
         <!-- TODO: Add link to cat photos -->
         <p>See more <a target="_blank" href="https://freecatphotoapp.com">cat photos</a> in our gallery.</p>
         <a href="https://freecatphotoapp.com"><img src="https://cdn.freecodecamp.org/curriculum/cat-photo-app/relaxing-cat.jpg" alt="A cute orange cat lying on its back."></a>
-      </section>
       <section>
         <h2>Cat Lists</h2>
         <h3>Things cats love:</h3>
@@ -35,11 +34,12 @@
       <section>
         <h2>Cat Form</h2>
         <form action="https://freecatphotoapp.com/submit-cat-photo">
-          <input type="text" name="catphotourl" placeholder="cat photo URL" required="">
-          <button>Submit</button>
+          <label><input id="indoor" type="radio" name="indoor-outdoor"> Indoor</label>
+          <label><input id="outdoor" type="radio" name="indoor-outdoor"> Outdoor</label>
+          <input type="text" name="catphotourl" placeholder="cat photo URL" required>
+          <button type="submit">Submit</button>
         </form>
       </section>
     </main>
-  
-</body>
+  </body>
 </html>
