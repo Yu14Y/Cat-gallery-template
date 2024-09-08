@@ -19,6 +19,7 @@ A flawless cat photo Gallary from [freecodecamp.org](https://www.freecodecamp.or
 it is best if you learn and read resources so u will understand everything.
 Think of this as a template and take insp.
 There are no laws that suspends you from forking it and using it for your own purposes.
+
 [Back to Top](#cat-photo-gallary)
 
 # Documentations
@@ -35,6 +36,7 @@ The second part of the page allows you to submit a form to a website. The form i
 
 I will not be merging any PR related to index.html
 other PR that will improve the readme will be merged. 
+
 [Back to Top](#cat-photo-gallary)
 
 # Screenshots
