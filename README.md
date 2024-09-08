@@ -15,7 +15,7 @@ A flawless cat photo Gallary from [freecodecamp.org](https://www.freecodecamp.or
 
 # BEWARE
 
-Please do not use this material to cheat on your school project or any sort related to education.
+**Please do not use this material to cheat on your school project or any sort** related to education.
 it is best if you learn and read resources so u will understand everything.
 Think of this as a template and take insp.
 There are no laws that suspends you from forking it and using it for your own purposes.
