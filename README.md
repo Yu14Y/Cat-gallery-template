@@ -22,10 +22,12 @@ There are no laws that suspends you from forking it and using it for your own pu
 
 # Documentations
 
+**Reminder**, this is the 2022 course. i will not update to future courses. 
 A flawless cat photo gallery from Freecodecamp **Responsive Web Design** Course. This Repo was created to showcase the website.
 I will not be explaining any html elements or any html attribute as i believe users may use this repo to finish the course quickly.
 I wish that you read all the resources first, so u will understand everything better and understand every part of it. This Repo 
 was created since Yu14 Ywen (the Owner of this Repo) was taking the course on Freecodecamp. I wish to remind you that. Everything in the index.html file was the output of the course. 
+
 
 The first part of the page allows you to see 3 images with a caption and some text.
 The second part of the page allows you to submit a form to a website. The form is a proof of concept and sort of example. 
