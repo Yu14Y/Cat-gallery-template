@@ -7,11 +7,9 @@ A flawless cat photo Gallary from [freecodecamp.org](https://www.freecodecamp.or
 
 ### Table of Content
 
-<ul>
-  <li> <a href="#beware">Beware!</a> - Notice from Yu14 </li>
-  <li> <a href="#documentations">Docs</a> - documentation </li>
-  <li> <a href="#screenshots">Screenshots</a> - screenshots </li>
-</ul>
+[Beware](#beware) - Notice From Yu14
+[Documentations](#documentations) - Documentation about this project
+[Screenshots](#screenshots) - Screenshots 
 
 # BEWARE
 
@@ -24,11 +22,12 @@ There are no laws that suspends you from forking it and using it for your own pu
 
 # Documentations
 
+[visit the website](https://yu14y.github.io/Cat-gallery-template/)
 **Reminder**, this is the 2022 course. i will not update to future courses. 
 A flawless cat photo gallery from Freecodecamp **Responsive Web Design** Course. This Repo was created to showcase the website.
 I will not be explaining any html elements or any html attribute as i believe users may use this repo to finish the course quickly.
 I wish that you read all the resources first, so u will understand everything better and understand every part of it. This Repo 
-was created since Yu14 Ywen (the Owner of this Repo) was taking the course on Freecodecamp. I wish to remind you that. Everything in the index.html file was the output of the course. 
+was created since [Yu14 Ywen (the Owner of this Repo)](https://github.com/Yu14Y) was taking the course on Freecodecamp. I wish to remind you that. Everything in the index.html file was the output of the course. 
 
 
 The first part of the page allows you to see 3 images with a caption and some text.
