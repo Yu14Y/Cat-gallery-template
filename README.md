@@ -1,7 +1,16 @@
+# ARCHIVED
+As the new Curriculum is coming out, this repo will be considered as an legacy project. in the new Curriculum they may have changed some stuff, 
+
+
+
 
 # Cat Photo Gallary
 
 A flawless cat photo Gallary from [freecodecamp.org](https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-html-by-building-a-cat-photo-app)
+
+
+
+
 
 ---
 
